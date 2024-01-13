@@ -54,7 +54,7 @@ WHERE [Name] LIKE 'M%'
 	OR [Name] LIKE 'B%' 
 	OR [Name] LIKE 'E%'
 ORDER BY [Name] ASC
-
+ 
 ---------------------------------------------------
 
 --7. Find Towns Not Starting With
